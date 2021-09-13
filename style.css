@@ -95,7 +95,8 @@ a {
     border: 0.1em solid #F2F2F2;
     border-radius: 25px;
     position: relative;
-    margin: 0 0 0 1%;    
+    margin: 0 0 0 1%;
+    cursor: pointer;    
 }
 #background_geolocation_icon {
     background-color: #F2F2F2;
@@ -126,6 +127,7 @@ a {
     border-radius: 0 13px 13px 0;
     position: absolute;
     margin: -0.4% 0 0 64%;
+    cursor: pointer;
 }
 #secret_search {
     display: none;
