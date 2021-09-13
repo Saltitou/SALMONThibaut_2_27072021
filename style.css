@@ -74,7 +74,7 @@ nav ul li a {
     justify-content: center;
 }
 .border_focus:hover{
-    border-top: 5px solid #0065FC;
+    border-top: 7px solid #0065FC;
     color:#0065FC; 
 }
 /* Main */
