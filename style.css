@@ -834,10 +834,7 @@ footer {
         margin: 0 0 8% 0;
     }
 }
-@media screen and (max-device-width: 428px) {
-    body {
-        max-width: 428px;
-    }
+@media screen and (max-device-width: 767px) {
     #container {
         width: 99%;
     }
